@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Campinas HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Campinas HD
+http://sep22x.in:80/NJXpXX/QXthsu/83503
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Campinas HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Campinas HD [Alt]
+http://sep22x.in:80/NJXpXX/QXthsu/147371
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Campinas SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Campinas SD
+http://sep22x.in:80/NJXpXX/QXthsu/83550
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Central Sao Carlos FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Central Sao Carlos FHD
+http://sep22x.in:80/NJXpXX/QXthsu/83515
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Central Sao Carlos HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Central Sao Carlos HD
+http://sep22x.in:80/NJXpXX/QXthsu/162804
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Central Sao Carlos SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Central Sao Carlos SD
+http://sep22x.in:80/NJXpXX/QXthsu/83549
 #EXTINF:-1,RecordTV Interior SP
 http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1,Record News (720p)
