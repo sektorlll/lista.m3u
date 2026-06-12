@@ -1,14 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo EPTV Campinas HD" tvg-logo="https://logos.imperioapps.top/globo.png" group-title="Canais | Globos Regionais",Globo EPTV Campinas HD
-http://199.245.234.35:80/99456963/85713984/153488.ts
-#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo EPTV Campinas SD" tvg-logo="https://logos.imperioapps.top/globo.png" group-title="Canais | Globos Regionais",Globo EPTV Campinas SD
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP HD" tvg-logo="https://logos.imperioapps.top/RECORD.png" group-title="Canais | Record",Record SP HD
-http://199.245.234.35:80/99456963/85713984/127590.ts
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP SD" tvg-logo="https://logos.imperioapps.top/RECORD.png" group-title="Canais | Record",Record SP SD
-#EXTINF:-1 tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SP HD" tvg-logo="https://logos.imperioapps.top/sbt.png" group-title="Canais | SBT",SBT SP HD
-http://199.245.234.35:80/99456963/85713984/127314.ts
-#EXTINF:-1 tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SD" tvg-logo="https://logos.imperioapps.top/sbt.png" group-title="Canais | SBT",SBT SD
-http://199.245.234.35:80/99456963/85713984/127312.ts
+#EXTINF:-1,RecordTV Interior SP
+http://200.77.176.130:8000/udp/224.0.0.4:49152
+#EXTINF:-1,Record News (720p)
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1,Rede TV! Mais
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1,Rede TV! ES (1080p)
+https://streaming.cloudecast.com/hls/redetves/index.m3u8
+#EXTINF:-1,SBT Nova Mutum
+https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+#EXTINF:-1,TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1,SBT Rondonopolis
+https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
+#EXTINF:-1,SBT Cuiaba
+https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
+#EXTINF:-1,SBT Sinop
+https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
+#EXTINF:-1,SBT Interior (720p)
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1,RecordTV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1,Cultura Pará (480p) [Not 24/7]
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+
 
 #EXTINF:-1 group-title="TV Aberta",Globo Bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
