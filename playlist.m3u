@@ -12,13 +12,13 @@ http://sep22x.in:80/NJXpXX/QXthsu/162804
 #EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Central Sao Carlos SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Central Sao Carlos SD
 http://sep22x.in:80/NJXpXX/QXthsu/83549
 #EXTINF:-1,RecordTV Interior SP
-http://200.77.176.130:8000/udp/224.0.0.4:49152
+http://rteomi.xyz:80/0118689/3451067/808685
 #EXTINF:-1,Record News (720p)
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1,Rede TV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
-#EXTINF:-1,Rede TV! ES (1080p)
-https://streaming.cloudecast.com/hls/redetves/index.m3u8
+#EXTINF:-1,Record TV! ES (720p)
+http://rteomi.xyz:80/0118689/3451067/808686
 #EXTINF:-1,SBT Nova Mutum
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
 #EXTINF:-1,TV Cultura
