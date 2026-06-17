@@ -75,9 +75,22 @@ http://rteomi.xyz:80/0118689/3451067/804774
 http://rteomi.xyz:80/0118689/3451067/805431
 #EXTINF:-1 group-title="TV AO VIVO",HBO Plus HD
 http://rteomi.xyz:80/0118689/3451067/804783
+#EXTINF:-1 tvg-id="TCPIP" tvg-name="Telecine Pipoca HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
+http://rteomi.xyz:80/0118689/3451067/804804
+#EXTINF:-1 tvg-id="TCPIP" tvg-name="Telecine Pipoca SD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca SD
+http://rteomi.xyz:80/0118689/3451067/804805
+#EXTINF:-1 tvg-id="HBOHDA" tvg-name="HBO Family HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family HD
+http://rteomi.xyz:80/0118689/3451067/804777
+#EXTINF:-1 tvg-id="HBOHDA" tvg-name="HBO Family SD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family SD
+http://rteomi.xyz:80/0118689/3451067/804778
+#EXTINF:-1 tvg-id="HBOXLAM" tvg-name="HBO Xtreme HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme HD
+http://rteomi.xyz:80/0118689/3451067/804792
+#EXTINF:-1 tvg-id="HBOXLAM" tvg-name="HBO Xtreme SD" tvg-logo="http://www.fontedecanais.org/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme SD
+http://rteomi.xyz:80/0118689/3451067/804793
 #EXTINF:-1 group-title="TV AO VIVO",Telecine Action HD
 http://rteomi.xyz:80/0118689/3451067/804795
 #EXTINF:-1 group-title="TV AO VIVO",Telecine Pipoca HD
 http://rteomi.xyz:80/0118689/3451067/804804
 #EXTINF:-1 group-title="TV AO VIVO",Telecine Premium HD
 http://rteomi.xyz:80/0118689/3451067/804807
+
