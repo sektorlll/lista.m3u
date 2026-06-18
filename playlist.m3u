@@ -13,6 +13,8 @@ http://rteomi.xyz:80/0118689/3451067/804887
 http://rteomi.xyz:80/0118689/3451067/804887
 #EXTINF:-1,RecordTV Interior SP
 http://rteomi.xyz:80/0118689/3451067/808685
+#EXTINF:-1 group-title="TV Aberta",Record
+http://hoststrsrv.com:80/live/ww7Jcw/REHeeU/1591.ts
 #EXTINF:-1,Record News (720p)
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1,Rede TV! Mais
