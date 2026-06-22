@@ -12,7 +12,7 @@ http://rteomi.xyz:80/0118689/3451067/804887
 #EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Central Sao Carlos SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Central Sao Carlos SD
 http://rteomi.xyz:80/0118689/3451067/804887
 #EXTINF:-1,RecordTV Interior SP
-http://rteomi.xyz:80/0118689/3451067/808685
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 group-title="TV Aberta",Record
 http://hoststrsrv.com:80/live/ww7Jcw/REHeeU/1591.ts
 #EXTINF:-1,Record News (720p)
