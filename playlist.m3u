@@ -13,6 +13,8 @@ http://rteomi.xyz:80/0118689/3451067/804887
 http://rteomi.xyz:80/0118689/3451067/804887
 #EXTINF:-1,RecordTV Interior SP
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Interior" tvg-logo="https://logos.imperioapps.top/RECORD.png" group-title="Canais | Record",Record SP HD
+http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1 group-title="TV Aberta",Record
 http://hoststrsrv.com:80/live/ww7Jcw/REHeeU/1591.ts
 #EXTINF:-1,Record News (720p)
