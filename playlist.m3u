@@ -91,4 +91,13 @@ http://rteomi.xyz:80/0118689/3451067/804795
 http://rteomi.xyz:80/0118689/3451067/804804
 #EXTINF:-1 group-title="TV AO VIVO",Telecine Premium HD
 http://rteomi.xyz:80/0118689/3451067/804807
-
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI HD
+http://joyfrvr.cc:80/10203040/40302010/1569.ts
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/hboplus.png" group-title="CANAIS | HBO",HBO PLUS HD
+http://joyfrvr.cc:80/10203040/40302010/1564.ts
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/hbopop.png" group-title="CANAIS | HBO",HBO POP HD
+http://joyfrvr.cc:80/10203040/40302010/1571.ts
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE HD
+http://joyfrvr.cc:80/10203040/40302010/1565.ts
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME HD
+http://joyfrvr.cc:80/10203040/40302010/1570.ts
