@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="br#vanguarda" tvg-name="Globo vanguarda" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Campinas HD
+#EXTINF:-1 tvg-id="br#vanguarda" tvg-name="vanguarda" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Campinas HD
 http://joyfrvr.cc:80/10203040/40302010/329578.ts
 #EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Campinas HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Campinas HD [Alt]
 http://rteomi.xyz:80/0118689/3451067/804888
