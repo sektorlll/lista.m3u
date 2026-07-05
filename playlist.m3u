@@ -11,8 +11,8 @@ http://hoststrsrv.com:80/live/ww7Jcw/REHeeU/1591.ts
 http://joyfrvr.cc:80/10203040/40302010/388191.ts
 #EXTINF:-1 tvg-id="record.interior.br" tvg-name="RECORD INTERIOR SP FHD H265" tvg-logo="http://www.tmsimg.com/assets/s41479_ll_h3_aa.png" group-title="CANAIS | RECORD",RECORD INTERIOR SP FHD H265
 http://joyfrvr.cc:80/10203040/40302010/388489.ts
-#EXTINF:-1,Record News (720p)
-https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1,Record TV sp (720p)
+http://dfplay.sbs/live/90067377/33712527/3425449.ts
 #EXTINF:-1,Rede TV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1,Record TV!sp (720p)
