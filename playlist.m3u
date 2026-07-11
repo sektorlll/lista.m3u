@@ -46,7 +46,7 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 http://rteomi.xyz:80/0118689/3451067/804865
 #EXTINF:-1 group-title="TV AO VIVO",RedeTV! SD
 http://rteomi.xyz:80/0118689/3451067/804866
-#EXTINF:-1 tvg-id="br#jetsons" tvg-name="Os jetson" tvg-logo="https://logos.imperioapps.top/jetsons.png" group-title="Canais | Jetsons Regionais",Os jetsons
+#EXTINF:-1 tvg-id="br#jetsons" tvg-name="Os jetson" tvg-logo="https://logos.imperioapps.top/jetsons.png" group-title="Canais | Jetsons Regionais",Tv record
 http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD H265" tvg-logo="http://www.fontedoscanais.com/logos/canais/hbo2.png" group-title="CANAIS | HBO",HBO 2 FHD H265
 http://joyfrvr.cc:80/10203040/40302010/339394.ts
