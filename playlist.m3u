@@ -7,10 +7,10 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1 group-title="TV Aberta",Record
 http://hoststrsrv.com:80/live/ww7Jcw/REHeeU/1591.ts
-#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="GLOBO EPTV CAMPINAS FHD H265" tvg-logo="http://www.tmsimg.com/assets/s75846_ll_h3_aa.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS FHD H265
-http://joyfrvr.cc:80/10203040/40302010/388191.ts
-#EXTINF:-1 tvg-id="record.interior.br" tvg-name="RECORD INTERIOR SP FHD H265" tvg-logo="http://www.tmsimg.com/assets/s41479_ll_h3_aa.png" group-title="CANAIS | RECORD",RECORD INTERIOR SP FHD H265
-http://joyfrvr.cc:80/10203040/40302010/388489.ts
+#EXTINF:-1 group-title="Globo",Globo sp
+http://dfplay.sbs/get.php?username=90067377&password=33712527&type=m3u_plus&output=m3u8
+#EXTINF:-1 group-title="Record",Record tv
+http://dfplay.sbs/get.php?username=90067377&password=33712527&type=m3u_plus&output=m3u8
 #EXTINF:-1,Record TV sp (720p)
 http://dfplay.sbs/live/90067377/33712527/3425449.ts
 #EXTINF:-1,Rede TV! Mais
