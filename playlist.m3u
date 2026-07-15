@@ -77,10 +77,8 @@ http://4brs.me:80/live/2872202941/5456966637/5948.ts
 http://4brs.me:80/live/2872202941/5456966637/6091.ts
 #EXTINF:-1, Canal 9 (4brs live)
 http://4brs.me:80/live/2872202941/5456966637/6094.ts
-#EXTINF:-1, Canal 10 (4brs live)
-http://4brs.me:80/live/2872202941/5456966637/6095.ts
-#EXTINF:-1, Globo Bahia (hls1.sua.tv)
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 group-title="Tc", TcAction
+http://dfplay.sbs/live/90067377/33712527/3425476.m3u8
 #EXTINF:-1, Canal 11 (tudop.top)
 http://tudop.top/live/10203040/10203040/126919.ts
 #EXTINF:-1, Canal 12 (tudop.top)
