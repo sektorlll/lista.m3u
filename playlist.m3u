@@ -13,15 +13,11 @@ http://dfplay.sbs/get.php?username=90067377&password=33712527&type=m3u_plus&outp
 http://dfplay.sbs/get.php?username=90067377&password=33712527&type=m3u_plus&output=m3u8
 #EXTINF:-1,Record TV sp (720p)
 http://dfplay.sbs/live/90067377/33712527/3425449.ts
-#EXTINF:-1,Rede TV! Mais
-https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1,Record TV!sp (720p)
 http://joyfrvr.cc:80/ww7Jcw/REHeeU/1588.ts
 http://dfplay.sbs/get.php?username=90067377&password=33712527&type=m3u_plus&output=m3u8
 #EXTINF:-1,SBT Interior (720p)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1,RecordTV
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1,Cultura Pará (480p) [Not 24/7]
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 group-title="TV Aberta",Globo Bahia
@@ -52,9 +48,6 @@ http://200.77.176.130:8000/udp/224.0.0.4:49152
 http://joyfrvr.cc:80/10203040/40302010/339394.ts
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/hbo.png" group-title="CANAIS | HBO",HBO HD
 http://joyfrvr.cc:80/10203040/40302010/1563.ts
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://www.tmsimg.com/assets/s104743_ll_h3_aa.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX HD
-http://joyfrvr.cc:80/10203040/40302010/1518.ts
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://www.tmsimg.com/assets/s75591_ll_h3_aa.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX HD
 #EXTINF:-1 group-title="TV AO VIVO",Telecine Pipoca HD
 http://rteomi.xyz:80/0118689/3451067/804804
 #EXTINF:-1 group-title="TV AO VIVO",Telecine Premium HD
