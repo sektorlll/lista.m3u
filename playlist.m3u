@@ -8,7 +8,7 @@ http://hoststrsrv.com:80/live/ww7Jcw/REHeeU/1591.ts
 #EXTINF:-1 group-title="Globo",Globo sp
 http://dfplay.sbs/get.php?username=90067377&password=33712527&type=m3u_plus&output=m3u8
 #EXTINF:-1 group-title="Record",Record tv
-http://dfplay.sbs/get.php?username=90067377&password=33712527&type=m3u_plus&output=m3u8
+newnet.online:8880/hls/541071_172.ts?token=x8FP_vK6l232Aokyg306u0xbVzSjjnqu48OVCoPYFLtvtfiyBVpJPTwQShi4Zs_HS0296ObWPDN05gReFVNWvgoTJhstsVIPd3iJ4x3iPKiYhu1py88GF33vL-d0DRjvoMqCjWTxPrjZaGV2ySg3qA
 #EXTINF:-1,Record TV sp (720p)
 http://dfplay.sbs/live/90067377/33712527/3425449.tss
 http://dfplay.sbs/get.php?username=90067377&password=33712527&type=m3u_plus&output=m3u8
