@@ -21,7 +21,7 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 group-title="TV Aberta",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 group-title="TV Aberta",Record TV
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+http://rteomi.xyz:80/Camila/C1a2m3ila!/808729
 #EXTINF:-1 group-title="TV Aberta",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 group-title="TV Aberta",TV Cultura
@@ -86,44 +86,3 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1,200 kbps
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b200000.m3u8
-#EXTINF:-1,300 kbps
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b300000.m3u8
-#EXTINF:-1,400 kbps
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b400000.m3u8
-#EXTINF:-1,500 kbps
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b500000.m3u8
-#EXTINF:-1,600 kbps
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b600000.m3u8
-#EXTINF:-1,700 kbps
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b700000.m3u8
-#EXTINF:-1,800 kbps
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b800000.m3u8
-#EXTINF:-1,900 kbps
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b900000.m3u8
-#EXTINF:-1,1000 kbps
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b1000000.m3u8
-#EXTINF:-1,1200 kbps
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b1200000.m3u8
-#EXTINF:-1,1500 kbps
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b1500000.m3u8
-#EXTINF:-1,1800 kbps
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b1800000.m3u8
-#EXTINF:-1,2000 kbps
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b2000000.m3u8
-#EXTINF:-1,2500 kbps
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b2500000.m3u8
-#EXTINF:-1,3000 kbps
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b3000000.m3u8
-#EXTINF:-1,4000 kbps
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b4000000.m3u8
-
-# ========== FILMES ==========
-
-#EXTINF:-1, Filme 1 (4brs.me)
-http://4brs.me:80/movie/2872202941/5456966637/4784873.mp4
-#EXTINF:-1, Filme 2 (4brs.me)
-http://4brs.me:80/movie/2872202941/5456966637/5184556.mp4
-#EXTINF:-1, Filme 3 (tudop.top)
-http://tudop.top/movie/A6968392777520/261621377702520/4810182.mp4
-#EXTINF:-1, Filme 4 (tudop.top)
-http://tudop.top/movie/A6968392777520/261621377702520/5109882.mp4
