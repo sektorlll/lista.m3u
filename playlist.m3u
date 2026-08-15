@@ -21,6 +21,14 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 http://rteomi.xyz:80/Camila/C1a2m3ila!/808729
 #EXTINF:-1 tvg-id="GHB2DLY" tvg-name="HBO 2 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 HD
 http://rteomi.xyz:80/Camila/C1a2m3ila!/804774
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD [H265]" tvg-logo="http://www.fontedecanais.org/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD [H265]
+http://rteomi.xyz:80/Camila/C1a2m3ila!/805437
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD [H265]" tvg-logo="http://www.fontedecanais.org/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD [H265]
+http://rteomi.xyz:80/Camila/C1a2m3ila!/805430
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD [H265]" tvg-logo="http://www.fontedecanais.org/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD [H265]
+http://rteomi.xyz:80/Camila/C1a2m3ila!/805429
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD
+http://rteomi.xyz:80/Camila/C1a2m3ila!/804728
 #EXTINF:-1 tvg-id="HBOHDA" tvg-name="HBO Family HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family HD
 http://rteomi.xyz:80/Camila/C1a2m3ila!/804777
 #EXTINF:-1 tvg-id="HBOCHIL" tvg-name="HBO HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbo.png" group-title="Canais | HBO",HBO HD
