@@ -64,3 +64,11 @@ http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4835
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1,200 kbps
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b200000.m3u8
+#EXTINF:-1 tvg-name="Olhos Famintos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4deKiUXWqyATIEKCBSjRxCOLvu0.jpg" group-title="Filmes | Terror",Olhos Famintos
+http://rteomi.xyz:80/movie/0118689/3451067/1660388.mp4
+#EXTINF:-1 tvg-name="Olhos Famintos 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUZF0zC3VwklWvAxSOpDK9WezWx.jpg" group-title="Filmes | Terror",Olhos Famintos 2
+http://rteomi.xyz:80/movie/0118689/3451067/1660396.mp4
+#EXTINF:-1 tvg-name="Olhos Famintos 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PB0l5Y162Hcgx8JwyW4hsafLWY.jpg" group-title="Filmes | Terror",Olhos Famintos 3
+http://rteomi.xyz:80/movie/0118689/3451067/1660392.mp4
+#EXTINF:-1 tvg-name="Olhos Famintos 4: Renascimento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37xwMszfSsl1PVjaFXvKeB0nETa.jpg" group-title="Filmes | Terror",Olhos Famintos 4: Renascimento
+http://rteomi.xyz:80/movie/0118689/3451067/1657459.mp4
