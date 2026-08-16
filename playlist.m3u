@@ -23,6 +23,14 @@ http://rteomi.xyz:80/Camila/C1a2m3ila!/808729
 http://rteomi.xyz:80/Camila/C1a2m3ila!/804774
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD [H265]" tvg-logo="http://www.fontedecanais.org/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD [H265]
 http://rteomi.xyz:80/Camila/C1a2m3ila!/805437
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium FHD [H265]" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD [H265]
+http://rteomi.xyz:80/0118689/3451067/805441
+#EXTINF:-1 tvg-id="70" tvg-name="Telecine Touch FHD [H265]" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD [H265]
+http://rteomi.xyz:80/0118689/3451067/805442
+#EXTINF:-1 tvg-id="HBOSIG" tvg-name="HBO Signature FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD
+http://rteomi.xyz:80/0118689/3451067/804788
+#EXTINF:-1 tvg-id="HBOXLAM" tvg-name="HBO Xtreme FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme FHD
+http://rteomi.xyz:80/0118689/3451067/804791
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD [H265]" tvg-logo="http://www.fontedecanais.org/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD [H265]
 http://rteomi.xyz:80/Camila/C1a2m3ila!/805430
 #EXTINF:-1 tvg-id="" tvg-name="HBO FHD [H265]" tvg-logo="http://www.fontedecanais.org/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD [H265]
@@ -64,11 +72,3 @@ http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4835
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1,200 kbps
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b200000.m3u8
-#EXTINF:-1 tvg-name="Olhos Famintos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4deKiUXWqyATIEKCBSjRxCOLvu0.jpg" group-title="Filmes | Terror",Olhos Famintos
-http://rteomi.xyz:80/movie/0118689/3451067/1660388.mp4
-#EXTINF:-1 tvg-name="Olhos Famintos 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUZF0zC3VwklWvAxSOpDK9WezWx.jpg" group-title="Filmes | Terror",Olhos Famintos 2
-http://rteomi.xyz:80/movie/0118689/3451067/1660396.mp4
-#EXTINF:-1 tvg-name="Olhos Famintos 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PB0l5Y162Hcgx8JwyW4hsafLWY.jpg" group-title="Filmes | Terror",Olhos Famintos 3
-http://rteomi.xyz:80/movie/0118689/3451067/1660392.mp4
-#EXTINF:-1 tvg-name="big stan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37xwMszfSsl1PVjaFXvKeB0nETa.jpg" group-title="Filmes | Terror",Olhos Famintos 4: Renascimento
-http://rteomi.xyz:80/movie/0118689/3451067/1644678.mp4
