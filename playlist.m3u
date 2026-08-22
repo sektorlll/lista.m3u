@@ -9,8 +9,8 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 group-title="TV Aberta",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 group-title="TV Aberta",Record TV
-http://rteomi.xyz:80/Camila/C1a2m3ila!/808729
+#EXTINF:-1 group-title="Record",Record tv
+http://rteomi.xyz:80/Camila/C1a2m3ila!/808728
 #EXTINF:-1 tvg-id="GHB2DLY" tvg-name="HBO 2 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 HD
 http://rteomi.xyz:80/Camila/C1a2m3ila!/804774
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD [H265]" tvg-logo="http://www.fontedecanais.org/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD [H265]
@@ -46,8 +46,6 @@ http://rteomi.xyz:80/Camila/C1a2m3ila!/805287
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
 #EXTINF:-1 tvg-id="TCPIP" tvg-name="Telecine Pipoca HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
 http://rteomi.xyz:80/Camila/C1a2m3ila!/804804
-#EXTINF:-1 tvg-id="317" tvg-name="Record TV São Paulo HD" tvg-logo="http://www.fontedecanais.one/logos/canais/record.png" group-title="Canais | RecordTV",Record TV São Paulo HD
-http://rteomi.xyz:80/Camila/C1a2m3ila!/808728
 #EXTINF:-1 tvg-id="RGSAOP" tvg-name="Globo São Paulo HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Globo São Paulo HD
 http://rteomi.xyz:80/Camila/C1a2m3ila!/804905
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="http://www.fontedecanais.org/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
