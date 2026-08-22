@@ -51,10 +51,6 @@ http://rteomi.xyz:80/Camila/C1a2m3ila!/805437
 http://rteomi.xyz:80/Camila/C1a2m3ila!/804804
 #EXTINF:-1 tvg-id="RGSAOP" tvg-name="Globo São Paulo HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Globo São Paulo HD
 http://rteomi.xyz:80/Camila/C1a2m3ila!/804905
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD
-http://rteomi.xyz:80/Camila/C1a2m3ila!/804794
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD [H265]" tvg-logo="http://www.fontedecanais.org/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD [H265]
-http://rteomi.xyz:80/Camila/C1a2m3ila!/805437
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://www.fontedecanais.org/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax HD
 http://rteomi.xyz:80/Camila/C1a2m3ila!/804726
 #EXTINF:-1 group-title="Record",Record tv
