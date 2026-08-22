@@ -7,8 +7,6 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn.png" group-title="Canais | ESPN",ESPN HD
 http://rteomi.xyz:80/Camila/C1a2m3ila!/805323
-#EXTINF:-1 group-title="TV Aberta",Record
-http://hoststrsrv.com:80/live/ww7Jcw/REHeeU/1591.ts
 #EXTINF:-1 group-title="Record",Record tv
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1,SBT Interior (720p)
@@ -62,24 +60,23 @@ http://rteomi.xyz:80/Camila/C1a2m3ila!/804905
 http://rteomi.xyz:80/Camila/C1a2m3ila!/804729
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://www.fontedecanais.org/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax HD
 http://rteomi.xyz:80/Camila/C1a2m3ila!/804726
+#EXTINF:-1,group-title="Record",Record tv
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b200000.m3u8
 #EXTINF:-1, Canal 1 (199.245)
 http://199.245.234.35:80/99456963/85713984/4026217.ts
 #EXTINF:-1, Canal 2 (199.245)
 http://199.245.234.35:80/99456963/85713984/4026233.ts
-##EXTM3U
-#EXTINF:-1,Stream 4026229
+#EXTINF:-1,Canal 3 (199.245)
 http://199.245.234.35:80/99456963/85713984/4026229.ts
-#EXTINF:-1,Stream 4026230
+#EXTINF:-1,Canal 4 (199.245)
 http://199.245.234.35:80/99456963/85713984/4026230.ts
-#EXTINF:-1,Stream 4026231
+#EXTINF:-1,Canal 5 (199.245)
 http://199.245.234.35:80/99456963/85713984/4026231.ts
-#EXTINF:-1,Stream 4026232
+#EXTINF:-1,Canal 6 (199.245)
 http://199.245.234.35:80/99456963/85713984/4026232.ts
-#EXTINF:-1,Stream 4026234
+#EXTINF:-1,Canal 7 (199.245)
 http://199.245.234.35:80/99456963/85713984/4026234.ts
-#EXTINF:-1,Stream 4026235
+#EXTINF:-1,Canal 8 (199.245)
 http://199.245.234.35:80/99456963/85713984/4026235.ts
-#EXTINF:-1,Stream 4026236
+#EXTINF:-1,Canal 9 (199.245)
 http://199.245.234.35:80/99456963/85713984/4026236.ts
-#EXTINF:-1,200 kbps
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b200000.m3u8
