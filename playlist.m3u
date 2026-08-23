@@ -3,6 +3,14 @@
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn.png" group-title="Canais | ESPN",ESPN HD
 http://rteomi.xyz:80/Camila/C1a2m3ila!/805323
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD [H265]" tvg-logo="http://www.fontedecanais.org/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD [H265]
+http://rteomi.xyz:80/Camila/C1a2m3ila!/805411
+#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="TNT FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD
+http://rteomi.xyz:80/Camila/C1a2m3ila!/804749
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD [H265]" tvg-logo="http://www.fontedecanais.org/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax FHD [H265]
+http://rteomi.xyz:80/Camila/C1a2m3ila!/805414
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://www.fontedecanais.org/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax HD
+http://rteomi.xyz:80/Camila/C1a2m3ila!/804726
 #EXTINF:-1,SBT Interior (720p)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1,Cultura Pará (480p) [Not 24/7]
