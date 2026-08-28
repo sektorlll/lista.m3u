@@ -2,13 +2,6 @@
 #EXTINF:-1 group-title="TV Aberta",Globo
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn.png" group-title="Canais | ESPN",ESPN HD
-http://rteomi.xyz:80/Camila/C1a2m3ila!/805323
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://www.fontedecanais.org/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC HD
-http://rteomi.xyz:80/Camila/C1a2m3ila!/804717
-#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="TNT HD" tvg-logo="http://www.fontedecanais.org/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT HD
-http://rteomi.xyz:80/Camila/C1a2m3ila!/804750
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://www.fontedecanais.org/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax HD
-http://rteomi.xyz:80/Camila/C1a2m3ila!/804726
 #EXTINF:-1,SBT Interior (720p)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1,Cultura Pará (480p) [Not 24/7]
@@ -17,6 +10,9 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 group-title="Record",Record tv
 http://rteomi.xyz:80/Camila/C1a2m3ila!/808728
+http://up.kiwi/351921603109/34939156/1288
+#EXTINF:-1 group-title="Record",Record tv
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b200000.m3u8
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
 http://rteomi.xyz:80/Camila/C1a2m3ila!/804795
 #EXTINF:-1 tvg-id="TCCL" tvg-name="Telecine Cult HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
@@ -53,24 +49,27 @@ http://up.kiwi/351921603109/34939156/1282
 #EXTINF:-1,TELECINE PREMIUM HD²
 http://up.kiwi/351921603109/34939156/296194
 #EXTINF:-1,TELECINE TOUCH HD
-http://up.kiwi/351921603109/34939156/1288
-#EXTINF:-1 group-title="Record",Record tv
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b200000.m3u8
-#EXTINF:-1, Canal 1 (199.245)
-http://199.245.234.35:80/99456963/85713984/4026217.ts
-#EXTINF:-1, Canal 2 (199.245)
-http://199.245.234.35:80/99456963/85713984/4026233.ts
-#EXTINF:-1,Canal 3 (199.245)
-http://199.245.234.35:80/99456963/85713984/4026229.ts
-#EXTINF:-1,Canal 4 (199.245)
-http://199.245.234.35:80/99456963/85713984/4026230.ts
-#EXTINF:-1,Canal 5 (199.245)
-http://199.245.234.35:80/99456963/85713984/4026231.ts
-#EXTINF:-1,Canal 6 (199.245)
-http://199.245.234.35:80/99456963/85713984/4026232.ts
-#EXTINF:-1,Canal 7 (199.245)
-http://199.245.234.35:80/99456963/85713984/4026234.ts
-#EXTINF:-1,Canal 8 (199.245)
-http://199.245.234.35:80/99456963/85713984/4026235.ts
-#EXTINF:-1,Canal 9 (199.245)
-http://199.245.234.35:80/99456963/85713984/4026236.ts
+#EXTINF:-1,MEGAPIX HD
+http://up.kiwi/351921603109/34939156/728
+#EXTINF:-1,MEGAPIX HD²
+http://up.kiwi/351921603109/34939156/296457
+#EXTINF:-1,SPACE HD
+http://up.kiwi/351921603109/34939156/1216
+#EXTINF:-1,SPACE HD²
+http://up.kiwi/351921603109/34939156/296441
+#EXTINF:-1,TNT FHD H265
+http://up.kiwi/351921603109/34939156/1302
+#EXTINF:-1,TNT HD²
+http://up.kiwi/351921603109/34939156/296447
+#EXTINF:-1,CINE CANAL HD
+http://up.kiwi/351921603109/34939156/220
+#EXTINF:-1,CINEMAX HD
+http://up.kiwi/351921603109/34939156/262
+#EXTINF:-1,CINEMAX SD
+http://up.kiwi/351921603109/34939156/296436
+#EXTINF:-1,CNN BRASIL HD
+http://up.kiwi/351921603109/34939156/266
+#EXTINF:-1,SPORTV HD
+http://up.kiwi/351921603109/34939156/1231
+#EXTINF:-1,SPORTV HD
+http://up.kiwi/351921603109/34939156/3052
