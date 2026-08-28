@@ -27,18 +27,20 @@ http://rteomi.xyz:80/0118689/3451067/804798
 http://rteomi.xyz:80/0118689/3451067/804804
 #EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD
 http://rteomi.xyz:80/0118689/3451067/804807
-#EXTINF:-1 tvg-id="70" tvg-name="Telecine Touch HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD
-http://rteomi.xyz:80/0118689/3451067/804810
-#EXTINF:-1 tvg-id="HBOCHIL" tvg-name="HBO HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbo.png" group-title="Canais | HBO",HBO HD
-http://rteomi.xyz:80/0118689/3451067/804771
-#EXTINF:-1 tvg-id="MUNLEH" tvg-name="HBO Mundi HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi HD
-http://rteomi.xyz:80/0118689/3451067/804780
-#/EXTINF:-1 tvg-id="POPAM" tvg-name="HBO Pop HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop HD
-http://rteomi.xyz:80/0118689/3451067/804786
-#EXTINF:-1 tvg-id="HBODA" tvg-name="HBO Plus HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus HD
-http://rteomi.xyz:80/Camila/C1a2m3ila!/804783
-#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="http://www.fontedecanais.org/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD
-http://rteomi.xyz:80/Camila/C1a2m3ila!/805311
+#EXTINF:-1,HBO HD²
+http://up.kiwi/351921603109/34939156/296400
+#EXTINF:-1,HBO 2 HD
+http://up.kiwi/351921603109/34939156/566
+#EXTINF:-1,HBO MUNDI HD²
+http://up.kiwi/351921603109/34939156/296402
+#EXTINF:-1,HBO POP HD
+http://up.kiwi/351921603109/34939156/643
+#EXTINF:-1,HBO SIGNATURE HD
+http://up.kiwi/351921603109/34939156/650
+#EXTINF:-1,HBO XTREME HD
+http://up.kiwi/351921603109/34939156/656
+#EXTINF:-1,HBO+ HD
+http://up.kiwi/351921603109/34939156/662
 #EXTINF:-1 tvg-id="PRM10BR" tvg-name="Premiere 1 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 1 HD
 http://rteomi.xyz:80/Camila/C1a2m3ila!/805287
 #EXTINF:-1 tvg-id="TCCL" tvg-name="Telecine Cult HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
