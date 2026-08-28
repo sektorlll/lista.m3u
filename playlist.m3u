@@ -9,8 +9,6 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 group-title="Record",Record tv
 http://rteomi.xyz:80/Camila/C1a2m3ila!/808728
-#EXTINF:-1 group-title="Record",Record tv
-http://up.kiwi/351921603109/34939156/1288
 #EXTINF:-1 group-title="Record",Record tv2
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b200000.m3u8
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
@@ -46,6 +44,8 @@ http://up.kiwi/351921603109/34939156/1276
 #EXTINF:-1,TELECINE PREMIUM HD
 http://up.kiwi/351921603109/34939156/1282
 #EXTINF:-1,TELECINE PREMIUM HD²
+#EXTINF:-1 group-title="Record",HBO TOUCH
+http://up.kiwi/351921603109/34939156/1288
 http://up.kiwi/351921603109/34939156/296194
 #EXTINF:-1,TELECINE TOUCH HD
 #EXTINF:-1,MEGAPIX HD
