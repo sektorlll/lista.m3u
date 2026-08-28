@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="TV Aberta",Globo
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn.png" group-title="Canais | ESPN",ESPN HD
 #EXTINF:-1,SBT Interior (720p)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1,Cultura Pará (480p) [Not 24/7]
@@ -76,6 +75,14 @@ http://up.kiwi/351921603109/34939156/1260745
 http://up.kiwi/351921603109/34939156/1260746
 #EXTINF:-1,[PT] TVCINE TOP
 http://up.kiwi/351921603109/34939156/1260747
+#EXTINF:-1,CNN BRASIL HD
+http://up.kiwi/351921603109/34939156/266
+#EXTINF:-1,ESPN HD
+http://up.kiwi/351921603109/34939156/506
+#EXTINF:-1,JOVEM PAN NEWS HD
+http://up.kiwi/351921603109/34939156/709
+#EXTINF:-1,PRIME VIDEO 01
+http://up.kiwi/351921603109/34939156/304452
 #EXTINF:-1,PREMIERE CLUBES HD
 http://up.kiwi/351921603109/34939156/898
 #EXTINF:-1,PREMIERE CLUBES HD²
