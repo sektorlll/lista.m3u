@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV Aberta",TV Record
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 group-title="Infantil",Os Jetsons
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
