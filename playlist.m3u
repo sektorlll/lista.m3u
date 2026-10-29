@@ -6,6 +6,9 @@ http://200.77.176.130:8000/udp/224.0.0.1:49152
 #EXTINF:-1 group-title="TV Aberta",Record TV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b200000.m3u8
 
+#EXTINF:-1 group-title="TV Aberta",Record TV 3
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b200000.m3u8
+
 #EXTINF:-1 tvg-name="Record TV MT" group-title="Record",Record TV MT
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
