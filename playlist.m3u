@@ -27,6 +27,9 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 group-title="TV Aberta",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DAZ3 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discovery.png" group-title="Canais | Documentario",Discovery HD
+http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8
+
 #EXTINF:-1 group-title="TV Aberta",RedeTV!
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
 
