@@ -1117,9 +1117,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2541
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 #EXTINF:-1 tvg-id="ottera-2551" tvg-name="Canal 538 (Ottera 2551)" group-title="Ottera", Canal 538 (Ottera 2551)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
-#EXTINF:-1 tvg-id="ottera-2552" tvg-name="Canal 539 (Ottera 2552)" group-title="Ottera", Canal 539 (Ottera 2552)
+#EXTINF:-1 tvg-id="ottera-2552" tvg-name="Canal Ação (Ottera 2552)" group-title="Ottera", Canal 539 (Ottera 2552)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 tvg-id="ottera-2553" tvg-name="Canal 540 (Ottera 2553)" group-title="Ottera", Canal 540 (Ottera 2553)
+#EXTINF:-1 tvg-id="ottera-2553" tvg-name="Canal Comédia (Ottera 2553)" group-title="Ottera", Canal 540 (Ottera 2553)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:-1 tvg-id="ottera-2562" tvg-name="Canal 541 (Ottera 2562)" group-title="Ottera", Canal 541 (Ottera 2562)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2562
