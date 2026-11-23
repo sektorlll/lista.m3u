@@ -24,8 +24,8 @@ https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8?token=15732f12901f
 #EXTINF:-1 group-title="DOCUMENTARIOS",Hallo! Doc.
 https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8?token=15732f12901fe82f4cdb923910a76e2f42ef96a3-7f0dfecc882e5b03af26e1f554919d51-1731305420-1731262220
 
-#EXTINF:-1 group-title="Saude", Hallo! Fit
-https://cdn-5.nxplay.com.br/HALLOFIT/tracks-v1a1/mono.m3u8?token=15732f12901fe82f4cdb923910a76e2f42ef96a3-7f0dfecc882e5b03af26e1f554919d51-1731305420-1731262220
+#EXTINF:-1 group-title="DORAMA", Hallo! Dorama
+https://cdn-5.nxplay.com.br/HALLODORAMA/tracks-v1a1/mono.m3u8?token=15732f12901fe82f4cdb923910a76e2f42ef96a3-7f0dfecc882e5b03af26e1f554919d51-1731305420-1731262220
 
 #EXTINF:-1 group-title="TV Aberta",Gazeta TV
 https://video08.logicahost.com.br/tvc21/tvc21/chunklist.m3u8
